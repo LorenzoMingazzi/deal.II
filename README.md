@@ -1,1 +1,3 @@
-# Deal_II
+# Deal.II
+
+Repository for deal.II codes
